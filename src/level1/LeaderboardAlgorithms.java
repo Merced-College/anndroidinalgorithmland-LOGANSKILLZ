@@ -29,6 +29,7 @@ public class LeaderboardAlgorithms {
      */
     public static void sortByUsernameAscending(ArrayList<ScoreEntry> list) {
         // TODO
+    	
     }
 
     /**
